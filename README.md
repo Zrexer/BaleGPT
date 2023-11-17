@@ -15,9 +15,9 @@ in groups and private chats can Answer you!
 # Usage
 
 Base :
-  first search `BotFather` in Bale Messanger
-  Request to build a robot and get token`s robot
-  set that in line 4
+  first search `BotFather` in Bale Messanger ,
+  Request to build a robot and get token`s robot ,
+  set that in line 4 ,
   run the script
 
 + Linux Usage:
